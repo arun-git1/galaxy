@@ -1,1 +1,1 @@
-# galaxy:- Here we learn all about planets in our galaxy.
+# galaxy:- Here we learn all about planets in our galaxy..
